@@ -1,12 +1,13 @@
-## Hi there 👋
+# screenpipe
 
-<!--
+AI upgrade of your memory - records screen, audio, keyboard 24/7, all local, all yours.
 
-**Here are some ideas to get you started:**
+**local-first** · **open source (MIT)** · **privacy by default** 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## values
+
+user fanatic · simplicity · ship fast · measure everything · positive-sum maximizer
+
+## links
+
+[website](https://screenpi.pe) · [discord](https://discord.gg/screenpipe) · [twitter](https://twitter.com/screen_pipe) · [contributing](https://github.com/screenpipe/screenpipe/blob/main/CONTRIBUTING.md)
