@@ -1,6 +1,6 @@
 # screenpipe
 
-AI upgrade of your memory - records screen, audio, keyboard 24/7, all local, all yours.
+let superintelligence know what you're doing - records screen, audio, keyboard 24/7, all local, all yours.
 
 **local-first** · **open source (MIT)** · **privacy by default** 
 
