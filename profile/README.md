@@ -10,4 +10,4 @@ user fanatic · simplicity · ship fast · measure everything · positive-sum ma
 
 ## links
 
-[website](https://screenpi.pe) · [discord](https://discord.gg/screenpipe) · [twitter](https://twitter.com/screen_pipe) · [contributing](https://github.com/screenpipe/screenpipe/blob/main/CONTRIBUTING.md)
+[website](https://screenpi.pe) · [discord](https://discord.gg/screenpipe) · [twitter](https://twitter.com/screenpipe) · [contributing](https://github.com/screenpipe/screenpipe/blob/main/CONTRIBUTING.md)
