@@ -1,15 +1,19 @@
-# screenpipe
+# Screenpipe
 
-<img width="2048" height="512" alt="grok-image-06e39c07-f585-44a5-9dfb-ffb319f44c23" src="https://github.com/user-attachments/assets/19c39215-8870-488d-9408-e5a6295937c8" />
+![Turn how your company works into AI agents](https://github.com/user-attachments/assets/ba834f2d-5008-47be-a9fb-eefe05881b18)
 
-let AI know what you're doing - records screen, audio, keyboard 24/7, all local, all yours.
+Turn how your company works into AI agents.
 
-**local-first** · **open source** · **privacy by default** 
+Screenpipe records computer work and turns it into searchable memory, SOPs and instructions for AI agents. Teams can review captured workflows, check the source evidence and decide what to automate.
 
-## values
+Raw screen and audio history stays local by default. Optional cloud services and integrations process data according to your configuration.
 
-user fanatic · simplicity · ship fast · measure everything · positive-sum maximizer
+[Get started](https://screenpipe.com) · [Documentation](https://docs.screenpipe.com) · [Enterprise](https://screenpipe.com/enterprise) · [Book a demo](https://cal.com/team/screenpipe/enterprise)
 
-## links
+## Community and development
 
-[website](https://screenpi.pe) · [discord](https://discord.gg/screenpipe) · [x](https://x.com/screenpipe) · [contributing](https://github.com/screenpipe/screenpipe/blob/main/CONTRIBUTING.md) · [careers](https://screenpipe.com/careers)
+[Source code](https://github.com/screenpipe/screenpipe) · [Contributing](https://github.com/screenpipe/screenpipe/blob/main/CONTRIBUTING.md) · [Discord](https://discord.gg/screenpipe) · [Reddit](https://www.reddit.com/r/screen_pipe/) · [YouTube](https://www.youtube.com/@screen_pipe) · [X](https://x.com/screenpipe) · [Careers](https://screenpipe.com/careers)
+
+## Values
+
+User fanatic · simplicity · ship fast · measure everything · positive-sum maximizer
